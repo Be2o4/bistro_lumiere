@@ -1,4 +1,4 @@
-*{
+main{
     font-family: Georgia, 'Times New Roman', Times, serif;
     width: 960px;
     margin: 0 auto;
@@ -6,15 +6,23 @@
     font-size: 28px;
 }   
 
+.volver {
+    margin:20px;
+    font-size: 25px;
+    
+}
+
 h1{
     font-size: 80px;
     margin-top: 50px;
     margin-bottom: 160px;
+    text-align: center;
 
 }
 h2{
     font-size: 50px;
     text-decoration: underline;
+    text-underline-offset: 20px;
 }
 .subt{
     
@@ -22,7 +30,7 @@ h2{
 .pie{
     margin-top: 10px;
     color: rgb(156, 156, 156);
-    margin-bottom: 160px;
+    margin-bottom: 30px
     
 }
 
@@ -35,8 +43,34 @@ main a{
 
 }
 footer{
+    margin-top: 40px;
+    margin-bottom: 40px;
     color: rgb(156, 156, 156);
+    text-align: center;
+}
+hr{
+    margin-bottom: 40px;
 }
 footer a{
+   
     color: black;
+}
+.date{
+    color: rgb(156, 156, 156);
+}
+.subt{
+    width: 5%;
+    height: 5px;
+    background-color: darkgray;
+    margin: 20px auto;
+    margin-top: -10px;
+}
+.contain{
+    margin:20px auto;
+    color: rgb(156, 156, 156);
+    font-size: 20px;
+}
+.date{
+    color: rgb(197, 197, 197);
+    font-size: 25px;
 }
