@@ -1,0 +1,42 @@
+*{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    width: 960px;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 28px;
+}   
+
+h1{
+    font-size: 80px;
+    margin-top: 50px;
+    margin-bottom: 160px;
+
+}
+h2{
+    font-size: 50px;
+    text-decoration: underline;
+}
+.subt{
+    
+}
+.pie{
+    margin-top: 10px;
+    color: rgb(156, 156, 156);
+    margin-bottom: 160px;
+    
+}
+
+.pie i{
+    margin-top: 30px;
+    color: black;
+}
+main a{
+    color: black;
+
+}
+footer{
+    color: rgb(156, 156, 156);
+}
+footer a{
+    color: black;
+}
